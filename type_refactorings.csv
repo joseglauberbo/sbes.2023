@@ -1,0 +1,9 @@
+Refactoring type,Quantidade Arq Confli,Quantidade Reg Confli
+rename,1816,193
+move,2921,608
+extract,1339,152
+inline,478,35
+move_rename,150,13
+extract_move,797,80
+internal_move,9116,614
+internal_move_rename,84,23
